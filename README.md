@@ -1,2 +1,2 @@
-# AncdroidOCR
+# AndroidOCR
 Optical Charactor Recognition
