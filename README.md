@@ -1,0 +1,2 @@
+# AncdroidOCR
+Optical Charactor Recognition
